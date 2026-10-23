@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DHL Vehicle Inspection</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <main class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <div class="brand-mark">DHL</div>
+      <div class="header-text">
+        <h1>Vehicle Inspection</h1>
+        <p>QRT checkpoint registration</p>
+      </div>
+      <span id="apiStatus" class="status-pill">Connecting…</span>
+    </header>
+
+    <!-- TABS -->
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" role="tab" class="tab active"
+        id="tabBtn-inspection" data-tab="inspection"
+        aria-controls="tab-inspection" aria-selected="true">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 11l3 3 8-8M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h9"/></svg>
+        <span>Inspection</span>
+      </button>
+
+      <button type="button" role="tab" class="tab"
+        id="tabBtn-sync" data-tab="sync"
+        aria-controls="tab-sync" aria-selected="false" tabindex="-1">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12a9 9 0 0 1-15.5 6.2M3 12A9 9 0 0 1 18.5 5.8M18 2v4h-4M6 22v-4h4"/></svg>
+        <span>Data sync</span>
+      </button>
+
+      <button type="button" role="tab" class="tab"
+        id="tabBtn-token" data-tab="token"
+        aria-controls="tab-token" aria-selected="false" tabindex="-1">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="15" r="4"/><path d="M10.8 12.2L20 3m-4 4l3 3m-6-0l2 2"/></svg>
+        <span>API token</span>
+        <i id="tokenTabDot" class="dot" aria-hidden="true"></i>
+      </button>
+    </nav>
+
+    <!-- ============ TAB 1: INSPECTION ============ -->
+    <section id="tab-inspection" class="tab-panel"
+      role="tabpanel" aria-labelledby="tabBtn-inspection">
+
+      <form id="inspectionForm" class="panel">
+        <div class="section-heading">
+          <h2>New inspection</h2>
+          <p>Enter the truck number to retrieve its inspection details.</p>
+        </div>
+
+        <h3 class="group-title">Checkpoint</h3>
+        <div class="form-grid three">
+          <label>
+            Inspection date
+            <input type="date" id="date" name="date" required>
+          </label>
+
+          <label>
+            Check time (24-hour)
+            <input
+              type="text"
+              id="checkTime"
+              name="checkTime"
+              placeholder="HH:MM"
+              inputmode="numeric"
+              autocomplete="off"
+              maxlength="5"
+              pattern="([01][0-9]|2[0-3]):[0-5][0-9]"
+              title="Enter the time as HH:MM, for example 14:30"
+              required
+            >
+          </label>
+
+          <label>
+            QRT location
+            <select id="qrtLocation" name="qrtLocation" required>
+              <option value="">Loading locations…</option>
+            </select>
+          </label>
+        </div>
+
+        <h3 class="group-title">Truck</h3>
+        <div class="form-grid">
+          <label>
+            Truck number
+            <input
+              id="truckNumber"
+              name="truckNumber"
+              placeholder="Enter truck registration"
+              autocomplete="off"
+              required
+            >
+            <small id="lookupStatus" class="helper">
+              Lookup starts automatically.
+            </small>
+          </label>
+
+          <label>
+            Seal number
+            <input id="sealNumber" name="sealNumber"
+              placeholder="Enter or confirm seal number" required>
+          </label>
+        </div>
+
+        <div id="truckCard" class="truck-card hidden">
+          <h3>Truck information</h3>
+          <div class="details-grid">
+            <div><span>Driver</span><strong id="driverName">—</strong></div>
+            <div><span>Driver mobile</span><strong id="driverMobile">—</strong></div>
+            <div><span>Vehicle type</span><strong id="truckType">—</strong></div>
+            <div><span>Make</span><strong id="truckMake">—</strong></div>
+            <div><span>Starting point</span><strong id="startingPoint">—</strong></div>
+            <div><span>Destination</span><strong id="destination">—</strong></div>
+            <div><span>Client</span><strong id="consignee">—</strong></div>
+            <div><span>Product</span><strong id="product">—</strong></div>
+          </div>
+        </div>
+
+        <div id="inspectionNotice" class="notice hidden"></div>
+        <div id="formMessage" role="status" class="message hidden"></div>
+
+        <div class="actions">
+          <button type="reset" class="button secondary">Clear form</button>
+          <button type="submit" id="saveButton" class="button primary">
+            Save inspection
+          </button>
+        </div>
+      </form>
+    </section>
+
+    <!-- ============ TAB 2: DATA SYNC ============ -->
+    <section id="tab-sync" class="tab-panel hidden"
+      role="tabpanel" aria-labelledby="tabBtn-sync">
+
+      <div class="panel">
+        <div class="section-heading">
+          <h2>Vehicle data sync</h2>
+          <p>Pull the latest vehicle, driver and consignee details from DHL into Google Sheets.</p>
+        </div>
+
+        <div class="sync-hero">
+          <div>
+            <span class="helper">Last result</span>
+            <strong id="syncStatus">Not run yet</strong>
+          </div>
+          <button type="button" id="fetchLatestBtn" class="button primary">
+            Fetch latest data
+          </button>
+        </div>
+
+        <div id="syncStats" class="stat-grid hidden">
+          <div class="stat"><strong id="statUpdated">0</strong><span>Updated</span></div>
+          <div class="stat"><strong id="statAdded">0</strong><span>Added</span></div>
+          <div class="stat"><strong id="statUnique">0</strong><span>Unique vehicles</span></div>
+          <div class="stat"><strong id="statConsignees">0</strong><span>Consignees</span></div>
+        </div>
+
+        <div id="syncMessage" role="status" class="message hidden"></div>
+
+        <button type="button" id="goToTokenBtn" class="link-button hidden">
+          Open API token settings →
+        </button>
+      </div>
+    </section>
+
+    <!-- ============ TAB 3: API TOKEN ============ -->
+    <section id="tab-token" class="tab-panel hidden"
+      role="tabpanel" aria-labelledby="tabBtn-token">
+
+      <div class="panel token-panel">
+        <div class="section-heading">
+          <h2>DHL API token</h2>
+          <p>Manage the token stored in your Google Sheets token tab.</p>
+        </div>
+
+        <div class="token-status-row">
+          <div>
+            <span class="helper">Current status</span>
+            <strong id="dhlTokenStatus" class="badge">Checking…</strong>
+          </div>
+          <button type="button" id="refreshTokenStatus"
+            class="button secondary">
+            Refresh status
+          </button>
+        </div>
+
+        <form id="dhlTokenForm">
+          <label for="dhlTokenInput">
+            New DHL API token
+            <div class="input-with-button">
+              <input
+                type="password"
+                id="dhlTokenInput"
+                name="token"
+                placeholder="Paste new or replacement token"
+                autocomplete="new-password"
+                spellcheck="false"
+                maxlength="10000"
+                required
+              >
+              <button type="button" id="toggleTokenVisibility"
+                class="button secondary small">Show</button>
+            </div>
+            <small class="helper">
+              The token is saved to Google Sheets and is never displayed in full.
+            </small>
+          </label>
+
+          <div id="tokenMessage" role="status"
+            class="message hidden"></div>
+
+          <div class="actions">
+            <button type="submit" id="updateDhlToken"
+              class="button primary">
+              Update token
+            </button>
+          </div>
+        </form>
+
+        <div class="danger-zone">
+          <div>
+            <strong>Delete stored token</strong>
+            <p>Vehicle data sync will fail until a new token is added.</p>
+          </div>
+          <button type="button" id="deleteDhlToken"
+            class="button danger">
+            Delete token
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <footer>Vehicle inspection system · Local / Render</footer>
+  </main>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

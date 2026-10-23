@@ -1,0 +1,21 @@
+{
+  "name": "dhl-vehicle-extractor",
+  "version": "1.0.0",
+  "description": "DHL vehicle tracking and inspection API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "sync": "node Update_Vehicle_data/data_update.js",
+    "sync:vehicle-info": "node sync_script/vehicle-info-sync.js",
+    "test": "node --check server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "googleapis": "^186.0.0"
+  }
+}

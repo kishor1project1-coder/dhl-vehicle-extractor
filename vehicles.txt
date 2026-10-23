@@ -1,0 +1,3818 @@
+DHL BIRD'S EYE VIEW - VEHICLE REPORT
+========================================
+Total Vehicles: 381
+Generated At: 19/10/2026, 12:33:13 am
+
+========================================
+
+Vehicle 1
+Vehicle No: HR55AD2809
+Driver Name: DEEPU SINGH Deepu Singh
+Driver Mobile No: 0
+Route: Delhi - Kochi
+Consignee Name: AIRPLAZA RETAIL HOLDINGS PVT LTD
+Location: 27.046687 - 77.976941
+
+==================================================
+
+Vehicle 2
+Vehicle No: HR55AC8983
+Driver Name: TANWIR ANSARI  Tanwir Ansari
+Driver Mobile No: 7488791714
+Route: Delhi - Mumbai
+Consignee Name: JK TYRE & INDUSTRIES LTD
+Location: 19.377115 - 73.211012
+
+==================================================
+
+Vehicle 3
+Vehicle No: HR55AD9943
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 13.218913 - 80.044854
+
+==================================================
+
+Vehicle 4
+Vehicle No: HR55AD2566
+Driver Name: FARAHAD KHAN Farahad Khan
+Driver Mobile No: 7906325900
+Route: Bangalore - Pune
+Consignee Name: TRENT LIMITED
+Location: 18.429664 - 74.341392
+
+==================================================
+
+Vehicle 5
+Vehicle No: HR55AC7557
+Driver Name: MUKESH YADAV MUKESH YADAV
+Driver Mobile No: 6203864890
+Route: Delhi - Pune
+Consignee Name: GITS FOOD PRODUCTS PVT LTD
+Location: 26.708373 - 75.272267
+
+==================================================
+
+Vehicle 6
+Vehicle No: HR55AD0956
+Driver Name: NITIN KUMAR THAKUR Nitin Kumar Thakur
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 26.715519 - 77.895759
+
+==================================================
+
+Vehicle 7
+Vehicle No: HR55AD3294
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267359 - 76.847122
+
+==================================================
+
+Vehicle 8
+Vehicle No: HR55BC2491
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.092586 - 76.653507
+
+==================================================
+
+Vehicle 9
+Vehicle No: HR55BC2491
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.092586 - 76.653507
+
+==================================================
+
+Vehicle 10
+Vehicle No: MH04LQ2370
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.299403 - 73.067912
+
+==================================================
+
+Vehicle 11
+Vehicle No: HR55AD9669
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.266673 - 76.846912
+
+==================================================
+
+Vehicle 12
+Vehicle No: HR55AD6488
+Driver Name: Pradeep Singh
+Driver Mobile No: 6392854674
+Route: Bangalore - Mumbai
+Consignee Name: TTK PRESTIGE LTD
+Location: 12.935082 - 77.469396
+
+==================================================
+
+Vehicle 13
+Vehicle No: HR55AC1609
+Driver Name: Ranjit -
+Driver Mobile No: 9560903769
+Route: Kolkata - Kolkata
+Consignee Name: RECYCLE BIN
+Location: 21.526647 - 86.831259
+
+==================================================
+
+Vehicle 14
+Vehicle No: MH04LE0520
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.286414 - 73.071867
+
+==================================================
+
+Vehicle 15
+Vehicle No: HR55AE9750
+Driver Name: Sandeep Kumar
+Driver Mobile No: 7309897004
+Route: Bangalore - Mumbai
+Consignee Name: MEGA FREIGHT MOVERS LIMITED
+Location: 18.737406 - 73.458068
+
+==================================================
+
+Vehicle 16
+Vehicle No: HR55AD2489
+Driver Name: PAWAN KUMAR Pawan Kumar
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 12.961774 - 77.747771
+
+==================================================
+
+Vehicle 17
+Vehicle No: HR55AD5044
+Driver Name: Sunil Singh
+Driver Mobile No: 9456485052
+Route: Pune - Delhi
+Consignee Name: HUNTSMAN SOLUTIONS INDIA PVT LTD
+Location: 19.470728 - 74.205783
+
+==================================================
+
+Vehicle 18
+Vehicle No: HR65A7524
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.812992 - 75.596892
+
+==================================================
+
+Vehicle 19
+Vehicle No: MH04JK4718
+Driver Name: NIRAJ DUBEY DUB Niraj Dubey Dubey
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: HONASA CONSUMER LIMITED
+Location: 13.272386 - 77.720809
+
+==================================================
+
+Vehicle 20
+Vehicle No: HR55AD7292
+Driver Name: Sikandar Kumar
+Driver Mobile No: 9575350199
+Route: Hyderabad - Delhi
+Consignee Name: SHREE SHYAM CONTAINER SERVICES
+Location: 25.612832 - 78.480454
+
+==================================================
+
+Vehicle 21
+Vehicle No: MH04LE4130
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.286487 - 73.071894
+
+==================================================
+
+Vehicle 22
+Vehicle No: HR55AD5331
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 30.473542 - 76.631484
+
+==================================================
+
+Vehicle 23
+Vehicle No: HR55AD2815
+Driver Name: RAMAN KUMAR - Raman Kumar -
+Driver Mobile No: 7054471828
+Route: Kolkata - Ambala
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 24.917465 - 84.121278
+
+==================================================
+
+Vehicle 24
+Vehicle No: MH04HY9980
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364813 - 73.161497
+
+==================================================
+
+Vehicle 25
+Vehicle No: HR55AD2677
+Driver Name: Rajesh Kumar
+Driver Mobile No: 9812362660
+Route: Mumbai - Hyderabad
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 17.629282 - 77.905129
+
+==================================================
+
+Vehicle 26
+Vehicle No: HR55AD1035
+Driver Name: Mangal Kumar No
+Driver Mobile No: 8757653304
+Route: Bangalore - Hyderabad
+Consignee Name: TRENT LIMITED
+Location: 17.588837 - 78.500747
+
+==================================================
+
+Vehicle 27
+Vehicle No: MH03DV2638
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.109718 - 72.925847
+
+==================================================
+
+Vehicle 28
+Vehicle No: HR55BC3275
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.351057 - 77.303888
+
+==================================================
+
+Vehicle 29
+Vehicle No: MH04KF0478
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.357009 - 73.156831
+
+==================================================
+
+Vehicle 30
+Vehicle No: HR55AD9912
+Driver Name: VISHNU SHARMA Vishnu Sharma
+Driver Mobile No: 0
+Route: Chennai - Mumbai
+Consignee Name: DANFOSS INDUSTRIES PVT LTD
+Location: 19.109911 - 73.064715
+
+==================================================
+
+Vehicle 31
+Vehicle No: HR55AD9237
+Driver Name: KASHEM ALI MOLLA KASHEM ALI MOLLA
+Driver Mobile No: 0
+Route: Ambala - Ambala
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 30.473738 - 76.631682
+
+==================================================
+
+Vehicle 32
+Vehicle No: HR55AD9237
+Driver Name: KASHEM ALI MOLLA KASHEM ALI MOLLA
+Driver Mobile No: 0
+Route: Ambala - Pune
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 30.473738 - 76.631682
+
+==================================================
+
+Vehicle 33
+Vehicle No: MH04JK6084
+Driver Name: ANUP SARDAR Anup Sardar
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 12.755532 - 77.802684
+
+==================================================
+
+Vehicle 34
+Vehicle No: HR55AD3545
+Driver Name: LAL SINGH Lal Singh
+Driver Mobile No: 7500053694
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 19.326407 - 73.145108
+
+==================================================
+
+Vehicle 35
+Vehicle No: HR55AD9953
+Driver Name: SIBAS SAMANTA Sibas Samanta
+Driver Mobile No: 0
+Route: Hyderabad - GURGAON
+Consignee Name: ITC LIMITED
+Location: 27.860767 - 77.398972
+
+==================================================
+
+Vehicle 36
+Vehicle No: HR55AD7576
+Driver Name: IUNUS SK IUNUS SK
+Driver Mobile No: 0
+Route: Kolkata - Hyderabad
+Consignee Name: ERT SHIPPING & WAREHOUSING PVT
+Location: 17.140512 - 81.974932
+
+==================================================
+
+Vehicle 37
+Vehicle No: HR55AD5149
+Driver Name: SK AFJAL SK Afjal
+Driver Mobile No: 0
+Route: Pune - Pune
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 18.785024 - 74.292333
+
+==================================================
+
+Vehicle 38
+Vehicle No: HR55AD5908
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302703 - 76.820432
+
+==================================================
+
+Vehicle 39
+Vehicle No: MH02FG8366
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.109747 - 72.926037
+
+==================================================
+
+Vehicle 40
+Vehicle No: HR55AD3504
+Driver Name: YOGESH KUMAR Yogesh Kumar
+Driver Mobile No: 7906417963
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 28.865318 - 77.135993
+
+==================================================
+
+Vehicle 41
+Vehicle No: HR55AD5294
+Driver Name: SATISH  - Satish  -
+Driver Mobile No: 9917572159
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 27.420764 - 77.793937
+
+==================================================
+
+Vehicle 42
+Vehicle No: HR55AD5276
+Driver Name: Bhim Singh Sing
+Driver Mobile No: 9162761172
+Route: Hyderabad - Delhi
+Consignee Name: SHREE SHYAM CONTAINER SERVICES
+Location: 28.178069 - 76.709215
+
+==================================================
+
+Vehicle 43
+Vehicle No: MH04JK4715
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302734 - 76.820749
+
+==================================================
+
+Vehicle 44
+Vehicle No: HR55AE7857
+Driver Name: BADSHAH - Badshah -
+Driver Mobile No: 7400307109
+Route: Bangalore - Hyderabad
+Consignee Name: TRENT LIMITED
+Location: 13.116084 - 77.778413
+
+==================================================
+
+Vehicle 45
+Vehicle No: HR55AC0792
+Driver Name: HARIDEO SINGH Harideo Singh
+Driver Mobile No: 0
+Route: Chennai - Delhi
+Consignee Name: DANFOSS INDUSTRIES PVT LTD
+Location: 12.884649 - 79.909456
+
+==================================================
+
+Vehicle 46
+Vehicle No: HR55AD1905
+Driver Name: RAM KUMAR RAJBHAR RAM KUMAR RAJBHAR
+Driver Mobile No: 0
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.670717 - 77.563969
+
+==================================================
+
+Vehicle 47
+Vehicle No: HR65B0678
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.787878 - 77.007317
+
+==================================================
+
+Vehicle 48
+Vehicle No: HR65B0678
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.787878 - 77.007317
+
+==================================================
+
+Vehicle 49
+Vehicle No: HR55AC7898
+Driver Name: RAMAKANT RAMAKANT
+Driver Mobile No: 9026678704
+Route: Delhi - Pune
+Consignee Name: AJAY POLY PVT LTD
+Location: 18.774313 - 73.869542
+
+==================================================
+
+Vehicle 50
+Vehicle No: GJ01JT3350
+Driver Name: NO DRIVER
+Driver Mobile No: 0
+Route: Ahmedabad - Ahmedabad
+Consignee Name: PTL MULTI-CUSTOMER
+Location: 22.974248 - 72.566681
+
+==================================================
+
+Vehicle 51
+Vehicle No: MH04KU2763
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.287443 - 73.071413
+
+==================================================
+
+Vehicle 52
+Vehicle No: HR55AD0424
+Driver Name: SANTOSH KUMAR BIND Santosh Kumar Bind
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 24.016602 - 78.644931
+
+==================================================
+
+Vehicle 53
+Vehicle No: HR55AE4531
+Driver Name: BIKASH KUNAR PANDEY BIKASH KUNAR PANDEY
+Driver Mobile No: 0
+Route: Bangalore - Pune
+Consignee Name: TRENT LIMITED
+Location: 18.459543 - 74.347233
+
+==================================================
+
+Vehicle 54
+Vehicle No: HR55AD9930
+Driver Name: Pawan Kumar
+Driver Mobile No: 8979632582
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 24.817417 - 78.461243
+
+==================================================
+
+Vehicle 55
+Vehicle No: HR55AC5696
+Driver Name: MOHAMMAD SAYEED KHAN Mohammad Sayeed Khan
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.30267 - 76.820381
+
+==================================================
+
+Vehicle 56
+Vehicle No: HR55AD3966
+Driver Name: Pappoo
+Driver Mobile No: 8933073331
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 12.755648 - 77.802566
+
+==================================================
+
+Vehicle 57
+Vehicle No: HR55AD4610
+Driver Name: BALRAM PAL BALRAM PAL
+Driver Mobile No: 9250042590
+Route: Mumbai - Ambala
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 26.598906 - 74.95627
+
+==================================================
+
+Vehicle 58
+Vehicle No: MH02FL2028
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.109793 - 72.926119
+
+==================================================
+
+Vehicle 59
+Vehicle No: HR55AD1564
+Driver Name: Rajesh Kumar
+Driver Mobile No: 6398928171
+Route: Chennai - Delhi
+Consignee Name: DANFOSS INDUSTRIES PVT LTD
+Location: 16.739404 - 79.626201
+
+==================================================
+
+Vehicle 60
+Vehicle No: HR55AD4855
+Driver Name: BHAGYANSHU Bhagyanshu
+Driver Mobile No: 9461306239
+Route: Delhi - Chennai
+Consignee Name: SINGER INDIA LIMITED
+Location: 21.21238 - 79.260137
+
+==================================================
+
+Vehicle 61
+Vehicle No: MH04JK4501
+Driver Name: CHANDAN YADAV Chandan Yadav
+Driver Mobile No: 7766004899
+Route: Kolkata - Mumbai
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 21.068712 - 80.211817
+
+==================================================
+
+Vehicle 62
+Vehicle No: HR55AE3710
+Driver Name: KAILASH NISHAD KAILASH NISHAD
+Driver Mobile No: 0
+Route: Delhi - Chennai
+Consignee Name: AJAY POLY PVT LTD
+Location: 12.922404 - 79.906198
+
+==================================================
+
+Vehicle 63
+Vehicle No: HR55AD4266
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.408336 - 76.970668
+
+==================================================
+
+Vehicle 64
+Vehicle No: HR55AD7607
+Driver Name: SUDHIR Sudhir
+Driver Mobile No: 0
+Route: Ambala - Mumbai
+Consignee Name: HERO CYCLES LTD
+Location: 22.266946 - 75.485959
+
+==================================================
+
+Vehicle 65
+Vehicle No: HR55AD3278
+Driver Name: Kamal Singh
+Driver Mobile No: 7860873227
+Route: Ambala - Bangalore
+Consignee Name: HERO CYCLES LTD
+Location: 30.862197 - 76.026928
+
+==================================================
+
+Vehicle 66
+Vehicle No: MH04JK1127
+Driver Name: MD.DILSHAD MD.Dilshad
+Driver Mobile No: 0
+Route: Mumbai - Mumbai
+Consignee Name: HP INDIA LIMITED
+Location: 18.864633 - 73.017713
+
+==================================================
+
+Vehicle 67
+Vehicle No: HR55BC3334
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.343871 - 77.308987
+
+==================================================
+
+Vehicle 68
+Vehicle No: HR55AD5119
+Driver Name: Kamta Prasad
+Driver Mobile No: 8400426219
+Route: Pune - Bangalore
+Consignee Name: TRENT LIMITED
+Location: 17.997446 - 75.275839
+
+==================================================
+
+Vehicle 69
+Vehicle No: MH04JU9534
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.284348 - 73.025502
+
+==================================================
+
+Vehicle 70
+Vehicle No: HR65B3832
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.076565 - 76.646351
+
+==================================================
+
+Vehicle 71
+Vehicle No: HR55BC0902
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.81485 - 75.598395
+
+==================================================
+
+Vehicle 72
+Vehicle No: HR55AD3044
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 22.5936 - 88.223636
+
+==================================================
+
+Vehicle 73
+Vehicle No: HR55AD7595
+Driver Name: Dipak Mondal Mo
+Driver Mobile No: 9609422575
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 26.777405 - 75.385993
+
+==================================================
+
+Vehicle 74
+Vehicle No: HR55AD8364
+Driver Name: Mohd Naieem Sha
+Driver Mobile No: 9869153421
+Route: Kolkata - Mumbai
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 19.36434 - 73.161391
+
+==================================================
+
+Vehicle 75
+Vehicle No: HR55AD9015
+Driver Name: SONU - Sonu -
+Driver Mobile No: 9548516959
+Route: Chennai - Delhi
+Consignee Name: DANFOSS INDUSTRIES PVT LTD
+Location: 20.574064 - 78.882453
+
+==================================================
+
+Vehicle 76
+Vehicle No: HR55AE5982
+Driver Name: BITTU Bittu
+Driver Mobile No: 7206005743
+Route: Pune - Delhi
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 28.384721 - 76.69829
+
+==================================================
+
+Vehicle 77
+Vehicle No: HR55AC9060
+Driver Name: Prahlad Koyal K
+Driver Mobile No: 7439633905
+Route: Ambala - Pune
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 18.755744 - 73.79148
+
+==================================================
+
+Vehicle 78
+Vehicle No: HR55BC0375
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.263196 - 76.768524
+
+==================================================
+
+Vehicle 79
+Vehicle No: HR55BC1689
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.796482 - 75.691223
+
+==================================================
+
+Vehicle 80
+Vehicle No: MH04JK5917
+Driver Name: BRIJBIHARI SHAKYAVAR Brijbihari Shakyavar
+Driver Mobile No: 9082031710
+Route: Kochi - Delhi
+Consignee Name: VKL SEASONING PVT LTD
+Location: 22.681992 - 75.90949
+
+==================================================
+
+Vehicle 81
+Vehicle No: HR65B2792
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.319062 - 77.304479
+
+==================================================
+
+Vehicle 82
+Vehicle No: HR55AD6769
+Driver Name: GAURAV BAIRAGI Gaurav Bairagi Bairangi
+Driver Mobile No: 7060866832
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.895125 - 77.067316
+
+==================================================
+
+Vehicle 83
+Vehicle No: HR55AD0224
+Driver Name: RamSingh
+Driver Mobile No: 8769878236
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 20.23862 - 74.069689
+
+==================================================
+
+Vehicle 84
+Vehicle No: HR55AD2726
+Driver Name: Tersem singh SI
+Driver Mobile No: 9602262033
+Route: Delhi - Mumbai
+Consignee Name: JK TYRE & INDUSTRIES LTD
+Location: 25.027239 - 73.904654
+
+==================================================
+
+Vehicle 85
+Vehicle No: HR55AE4469
+Driver Name: RAJESH KUMAR Rajesh Kumar
+Driver Mobile No: 9458033061
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 24.817379 - 78.46067
+
+==================================================
+
+Vehicle 86
+Vehicle No: HR65A9982
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.994531 - 76.423333
+
+==================================================
+
+Vehicle 87
+Vehicle No: HR55AD0149
+Driver Name: SANDEEP PRASAD Sandeep Prasad
+Driver Mobile No: 7985915405
+Route: Delhi - Kochi
+Consignee Name: AIRPLAZA RETAIL HOLDINGS PVT LTD
+Location: 10.119654 - 76.342135
+
+==================================================
+
+Vehicle 88
+Vehicle No: HR55AD3985
+Driver Name: TEJU RAM Teju Ram
+Driver Mobile No: 0
+Route: Hyderabad - Ambala
+Consignee Name: SHREE SHYAM CONTAINER SERVICES
+Location: 25.885093 - 78.352387
+
+==================================================
+
+Vehicle 89
+Vehicle No: MH04JK5433
+Driver Name: VINOD U JADHAO VINOD U JADHAO JADHAO
+Driver Mobile No: 9112934707
+Route: Pune - Ambala
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 23.105746 - 75.204059
+
+==================================================
+
+Vehicle 90
+Vehicle No: HR55AD8291
+Driver Name: HEMANT SAMEE Hemant Samee
+Driver Mobile No: 0
+Route: Mumbai - Ambala
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 19.52302 - 73.098808
+
+==================================================
+
+Vehicle 91
+Vehicle No: HR55AD5581
+Driver Name: RAMESH KUMAR Ramesh Kumar
+Driver Mobile No: 0
+Route: Delhi - Bangalore
+Consignee Name: JK TYRE & INDUSTRIES LTD
+Location: 13.169574 - 77.336713
+
+==================================================
+
+Vehicle 92
+Vehicle No: HR55AC8566
+Driver Name: RANDHEER  SINGH Randheer  Singh
+Driver Mobile No: 8059453416
+Route: Hyderabad - Delhi
+Consignee Name: GOA HYDERRABAD CONTAINER SERVI
+Location: 28.310967 - 76.883716
+
+==================================================
+
+Vehicle 93
+Vehicle No: HR55AD5375
+Driver Name: VEER PAL Veer Pal
+Driver Mobile No: 0
+Route: Mumbai - Ambala
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 19.23535 - 73.122764
+
+==================================================
+
+Vehicle 94
+Vehicle No: GJ01JT3797
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 22.89038 - 72.419277
+
+==================================================
+
+Vehicle 95
+Vehicle No: MH04JK1128
+Driver Name: RAJEEV KUMAR Rajeev Kumar
+Driver Mobile No: 0
+Route: Ahmedabad - Delhi
+Consignee Name: TTK PRESTIGE LTD
+Location: 26.598847 - 74.956199
+
+==================================================
+
+Vehicle 96
+Vehicle No: HR55AD3707
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364321 - 73.161418
+
+==================================================
+
+Vehicle 97
+Vehicle No: HR55AD3096
+Driver Name: Sudhir Kumar Da
+Driver Mobile No: 9801557816
+Route: Pune - Kolkata
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 21.547084 - 85.491383
+
+==================================================
+
+Vehicle 98
+Vehicle No: HR55AD1607
+Driver Name: RAJ KUMAR RAY Raj Kumar Ray
+Driver Mobile No: 9241833367
+Route: Mumbai - Chennai
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 13.221303 - 80.047053
+
+==================================================
+
+Vehicle 99
+Vehicle No: HR55AD5067
+Driver Name: RAJESH KUMAR CHOUDHA Rajesh Kumar Choudhari
+Driver Mobile No: 0
+Route: Delhi - Chennai
+Consignee Name: AJAY POLY PVT LTD
+Location: 12.922058 - 79.905845
+
+==================================================
+
+Vehicle 100
+Vehicle No: MH04JK1709
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364782 - 73.161424
+
+==================================================
+
+Vehicle 101
+Vehicle No: MH04JK5921
+Driver Name: PRAVIN THAKUR
+Driver Mobile No: 9545921135
+Route: BHIWANDI - BHIWANDI
+Consignee Name: H AND M HENNES AND MAURITZ RETAIL P
+Location: 19.294136 - 73.111122
+
+==================================================
+
+Vehicle 102
+Vehicle No: HR55AD9939
+Driver Name: Sonu Yadav
+Driver Mobile No: 9627801257
+Route: Delhi - MUMBAI
+Consignee Name: TTK PRESTIGE LTD
+Location: 22.331196 - 75.500862
+
+==================================================
+
+Vehicle 103
+Vehicle No: HR55AD9094
+Driver Name: JAGDISH VERMA - JAGDISH VERMA -
+Driver Mobile No: 0
+Route: Hyderabad - Delhi
+Consignee Name: GOA HYDERRABAD CONTAINER SERVI
+Location: 25.612538 - 78.480394
+
+==================================================
+
+Vehicle 104
+Vehicle No: HR55AC4428
+Driver Name: NITIN KUMAR THAKUR Nitin Kumar Thakur
+Driver Mobile No: 0
+Route: Ambala - Delhi
+Consignee Name: LOREAL INDIA PVT LTD
+Location: 28.385007 - 76.698432
+
+==================================================
+
+Vehicle 105
+Vehicle No: HR55AD0714
+Driver Name: ROOP KISHOR Roop Kishor
+Driver Mobile No: 0
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.865277 - 77.136211
+
+==================================================
+
+Vehicle 106
+Vehicle No: HR55AD0315
+Driver Name: GUNVANT MAHAJAN GUNVANT MAHAJAN Mahajan
+Driver Mobile No: 9921647494
+Route: Mumbai - Kolkata
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 22.295223 - 86.827021
+
+==================================================
+
+Vehicle 107
+Vehicle No: HR55AD1841
+Driver Name: Hakim Singh
+Driver Mobile No: 7017052107
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 13.868899 - 77.720842
+
+==================================================
+
+Vehicle 108
+Vehicle No: HR55AD1028
+Driver Name: RAJESHKUMAR PRA
+Driver Mobile No: 7719863305
+Route: Mumbai - Bangalore
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 24.724153 - 77.361449
+
+==================================================
+
+Vehicle 109
+Vehicle No: MH04HY9139
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364739 - 73.161472
+
+==================================================
+
+Vehicle 110
+Vehicle No: MH03DV1530
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.064003 - 72.874243
+
+==================================================
+
+Vehicle 111
+Vehicle No: HR55AD0287
+Driver Name: VIRENDRA SINGH Virendra Singh
+Driver Mobile No: 7838577235
+Route: Delhi - Kochi
+Consignee Name: AIRPLAZA RETAIL HOLDINGS PVT LTD
+Location: 23.157054 - 79.031833
+
+==================================================
+
+Vehicle 112
+Vehicle No: HR55AD9030
+Driver Name: RATNAKAR MISHRA Ratnakar Mishra
+Driver Mobile No: 9628154794
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.266808 - 76.846952
+
+==================================================
+
+Vehicle 113
+Vehicle No: HR55AC7764
+Driver Name: GOVIND Govind
+Driver Mobile No: 6307961294
+Route: Bangalore - Mumbai
+Consignee Name: MEGA FREIGHT MOVERS LIMITED
+Location: 19.242428 - 73.047057
+
+==================================================
+
+Vehicle 114
+Vehicle No: HR55AC0137
+Driver Name: HEERA LAL Heera Lal
+Driver Mobile No: 0
+Route: Kolkata - Pune
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 18.785279 - 74.292524
+
+==================================================
+
+Vehicle 115
+Vehicle No: HR55AD1051
+Driver Name: Surjeet
+Driver Mobile No: 7317514345
+Route: Hyderabad - Ambala
+Consignee Name: SHREE SHYAM CONTAINER SERVICES
+Location: 17.629227 - 77.904968
+
+==================================================
+
+Vehicle 116
+Vehicle No: HR55AD0636
+Driver Name: HOSHIYAR SINGH Hoshiyar Singh
+Driver Mobile No: 9411460718
+Route: Mumbai - Ambala
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.232193 - 77.024239
+
+==================================================
+
+Vehicle 117
+Vehicle No: HR55AD3399
+Driver Name: GUDDU MURNU Guddu Murnu
+Driver Mobile No: 9330790475
+Route: Chennai - Ahmedabad
+Consignee Name: DANFOSS INDUSTRIES PVT LTD
+Location: 19.492006 - 75.693372
+
+==================================================
+
+Vehicle 118
+Vehicle No: MH04JK4706
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.21895335 - 77.00819421
+
+==================================================
+
+Vehicle 119
+Vehicle No: MH04HY9140
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364624 - 73.161484
+
+==================================================
+
+Vehicle 120
+Vehicle No: HR55AD5172
+Driver Name: RAJ KUMAR YADAV Raj Kumar Yadav
+Driver Mobile No: 9598415144
+Route: Bangalore - Ahmedabad
+Consignee Name: PUMA SPORTS INDIA PRIVATE LIMITED
+Location: 16.437461 - 74.362873
+
+==================================================
+
+Vehicle 121
+Vehicle No: HR55AD2265
+Driver Name: Sanjay Kumar
+Driver Mobile No: 6397399446
+Route: Bangalore - Mumbai
+Consignee Name: DUROFLEX LIMITED
+Location: 18.790895 - 73.295127
+
+==================================================
+
+Vehicle 122
+Vehicle No: HR55AT2511
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.788012 - 77.007428
+
+==================================================
+
+Vehicle 123
+Vehicle No: HR55AD4612
+Driver Name: Virender Singh
+Driver Mobile No: 9813898803
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 18.472439 - 78.222914
+
+==================================================
+
+Vehicle 124
+Vehicle No: HR55AD5560
+Driver Name: RAM KUMAR - Ram Kumar -
+Driver Mobile No: 9452503672
+Route: Bangalore - Mumbai
+Consignee Name: MEGA FREIGHT MOVERS LIMITED
+Location: 19.364625 - 73.161319
+
+==================================================
+
+Vehicle 125
+Vehicle No: HR65B3688
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.325984 - 77.308661
+
+==================================================
+
+Vehicle 126
+Vehicle No: HR55AD9329
+Driver Name: VISHNU TRIVEDI
+Driver Mobile No: 9654775710
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.266629 - 76.846861
+
+==================================================
+
+Vehicle 127
+Vehicle No: HR55AC3919
+Driver Name: RAJESH SINGH SINGH
+Driver Mobile No: 8252661422
+Route: Kolkata - Ambala
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 28.345106 - 77.513516
+
+==================================================
+
+Vehicle 128
+Vehicle No: HR55AD3924
+Driver Name: AVDHESH KUMAR AVDHESH KUMAR
+Driver Mobile No: 0
+Route: Bangalore - Mumbai
+Consignee Name: MEGA FREIGHT MOVERS LIMITED
+Location: 19.364764 - 73.161456
+
+==================================================
+
+Vehicle 129
+Vehicle No: MH04MR0517
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.285119 - 73.073977
+
+==================================================
+
+Vehicle 130
+Vehicle No: HR55AD8088
+Driver Name: VIRENDRA SINGH Virendra Singh
+Driver Mobile No: 7351664762
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 24.978536 - 78.467105
+
+==================================================
+
+Vehicle 131
+Vehicle No: HR55AD6510
+Driver Name: NARENDRA KUMAR SHARM Narendra Kumar Sharma
+Driver Mobile No: 0
+Route: Mumbai - Delhi
+Consignee Name: TE CONNECTIVITY INDIA
+Location: 22.445629 - 75.601196
+
+==================================================
+
+Vehicle 132
+Vehicle No: HR55BC4418
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.285563 - 76.772583
+
+==================================================
+
+Vehicle 133
+Vehicle No: HR55BC4418
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 27.285563 - 76.772583
+
+==================================================
+
+Vehicle 134
+Vehicle No: MH04JK7274
+Driver Name: PAVAN KUMAR Pavan Kumar
+Driver Mobile No: 7080533739
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.898643 - 77.074526
+
+==================================================
+
+Vehicle 135
+Vehicle No: HR55AD9158
+Driver Name: GAURAV GUPTA GAURAV GUPTA
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.898599 - 77.075937
+
+==================================================
+
+Vehicle 136
+Vehicle No: HR65B8332
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.319089 - 77.30438
+
+==================================================
+
+Vehicle 137
+Vehicle No: HR65A1275
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.326282 - 77.308567
+
+==================================================
+
+Vehicle 138
+Vehicle No: HR55AC6288
+Driver Name: DHANRAJ KUMAR DHANRAJ KUMAR
+Driver Mobile No: 9771764948
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.379221 - 76.741758
+
+==================================================
+
+Vehicle 139
+Vehicle No: HR55AD9470
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302742 - 76.820563
+
+==================================================
+
+Vehicle 140
+Vehicle No: HR55AD5506
+Driver Name: MURARI LAL Murari Lal
+Driver Mobile No: 9758055366
+Route: Delhi - Bangalore
+Consignee Name: JK TYRE & INDUSTRIES LTD
+Location: 18.472448 - 78.223009
+
+==================================================
+
+Vehicle 141
+Vehicle No: HR55AD4787
+Driver Name: SUNIL KUMAR SUNIL KUMAR
+Driver Mobile No: 0
+Route: Bangalore - Hyderabad
+Consignee Name: TRENT LIMITED
+Location: 17.588504 - 78.500464
+
+==================================================
+
+Vehicle 142
+Vehicle No: HR65B8584
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.817054 - 75.611531
+
+==================================================
+
+Vehicle 143
+Vehicle No: MH46BU3230
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.062339 - 72.879881
+
+==================================================
+
+Vehicle 144
+Vehicle No: HR55AD4367
+Driver Name: Sunil kumar
+Driver Mobile No: 7620747957
+Route: Delhi - Bangalore
+Consignee Name: TTK PRESTIGE LTD
+Location: 12.755537 - 77.802711
+
+==================================================
+
+Vehicle 145
+Vehicle No: MH02FX2161
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.119253 - 73.124614
+
+==================================================
+
+Vehicle 146
+Vehicle No: HR55AF2359
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.47574 - 76.795813
+
+==================================================
+
+Vehicle 147
+Vehicle No: HR65B2972
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.816813 - 75.596688
+
+==================================================
+
+Vehicle 148
+Vehicle No: HR55AD0238
+Driver Name: VAKIL KUMAR B BIND Vakil Kumar B Bind
+Driver Mobile No: 0
+Route: Mumbai - Chennai
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 13.22103 - 80.046889
+
+==================================================
+
+Vehicle 149
+Vehicle No: MH04JK1126
+Driver Name: RAM NARESH Ram Naresh
+Driver Mobile No: 0
+Route: Delhi - Ahmedabad
+Consignee Name: TTK PRESTIGE LTD
+Location: 22.929018 - 72.599916
+
+==================================================
+
+Vehicle 150
+Vehicle No: HR55AD8987
+Driver Name: ATA KARIM HUSSAIN ATA KARIM HUSSAIN
+Driver Mobile No: 0
+Route: Kolkata - Ambala
+Consignee Name: EMAMI PAPER MILLS LIMITED
+Location: 30.916228 - 76.869479
+
+==================================================
+
+Vehicle 151
+Vehicle No: MH04MR1124
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.235942 - 73.062209
+
+==================================================
+
+Vehicle 152
+Vehicle No: MH04NB4637
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.286533 - 73.071929
+
+==================================================
+
+Vehicle 153
+Vehicle No: HR55BC4327
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.816018 - 75.613114
+
+==================================================
+
+Vehicle 154
+Vehicle No: MH04JK5925
+Driver Name: ASHOK KUMAR Ashok Kumar
+Driver Mobile No: 9451803236
+Route: Bangalore - Ahmedabad
+Consignee Name: PUMA SPORTS INDIA PRIVATE LIMITED
+Location: 12.751066 - 77.732857
+
+==================================================
+
+Vehicle 155
+Vehicle No: HR55AD5101
+Driver Name: RAJESH KUMAR Rajesh Kumar
+Driver Mobile No: 0
+Route: Bangalore - Mumbai
+Consignee Name: DUROFLEX LIMITED
+Location: 18.790573 - 73.295176
+
+==================================================
+
+Vehicle 156
+Vehicle No: HR55AD6194
+Driver Name: NIRAJ KUMAR Niraj Kumar
+Driver Mobile No: 7090702733
+Route: Kochi - Delhi
+Consignee Name: MAXKING (INDIA) FOOTWEAR PRIVATE LI
+Location: 24.465572 - 78.518552
+
+==================================================
+
+Vehicle 157
+Vehicle No: MH04JK1726
+Driver Name: MOHAMMAD IKBAL ANSAR Mohammad Ikbal Ansari
+Driver Mobile No: 8451955354
+Route: Mumbai - Mumbai
+Consignee Name: HP INDIA LIMITED
+Location: 19.364541 - 73.16136
+
+==================================================
+
+Vehicle 158
+Vehicle No: HR55AD1816
+Driver Name: SHAILENDRA SINGH Shailendra Singh
+Driver Mobile No: 0
+Route: Mumbai - Delhi
+Consignee Name: GODREJ AND BOYCE MFG CO LTD
+Location: 28.232116 - 77.024423
+
+==================================================
+
+Vehicle 159
+Vehicle No: HR55AD4517
+Driver Name: DEVENDRA SINGH Devendra Singh
+Driver Mobile No: 0
+Route: Hyderabad - Delhi
+Consignee Name: GOA HYDERRABAD CONTAINER SERVI
+Location: 27.435963 - 77.70461
+
+==================================================
+
+Vehicle 160
+Vehicle No: HR65B7097
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.318929 - 77.303982
+
+==================================================
+
+Vehicle 161
+Vehicle No: GJ01MT3512
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 22.917193 - 72.422607
+
+==================================================
+
+Vehicle 162
+Vehicle No: GJ01JT4162
+Driver Name: NO DRIVER
+Driver Mobile No: 0
+Route: Ahmedabad - Bangalore
+Consignee Name: PTL MULTI-CUSTOMER
+Location: 22.890379 - 72.419263
+
+==================================================
+
+Vehicle 163
+Vehicle No: GJ01JT4162
+Driver Name: NO DRIVER
+Driver Mobile No: 0
+Route: Ahmedabad - Ahmedabad
+Consignee Name: PTL MULTI-CUSTOMER
+Location: 22.890379 - 72.419263
+
+==================================================
+
+Vehicle 164
+Vehicle No: MH04MR1039
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364329 - 73.161284
+
+==================================================
+
+Vehicle 165
+Vehicle No: MH04JK1131
+Driver Name: FIROJ ANSARI Firoj Ansari
+Driver Mobile No: 0
+Route: Mumbai - Mumbai
+Consignee Name: HP INDIA LIMITED
+Location: 19.354576 - 73.139422
+
+==================================================
+
+Vehicle 166
+Vehicle No: HR55AE3989
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.00758922 - 79.40673935
+
+==================================================
+
+Vehicle 167
+Vehicle No: MH04MH4913
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.361302 - 73.159049
+
+==================================================
+
+Vehicle 168
+Vehicle No: HR55AD1840
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.38474 - 76.698362
+
+==================================================
+
+Vehicle 169
+Vehicle No: HR55AD1476
+Driver Name: SHARAD GONDAGE
+Driver Mobile No: 7977018121
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 19.365487 - 73.16124
+
+==================================================
+
+Vehicle 170
+Vehicle No: MH04MH2171
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.286402 - 73.071966
+
+==================================================
+
+Vehicle 171
+Vehicle No: HR55AC3332
+Driver Name: SUKHPAL SINGH Sukhpal Singh
+Driver Mobile No: 8218226731
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.302478 - 76.820522
+
+==================================================
+
+Vehicle 172
+Vehicle No: HR55AD6342
+Driver Name: Ranjan Jana Jan
+Driver Mobile No: 7679991804
+Route: Hyderabad - Ambala
+Consignee Name: SHREE SHYAM CONTAINER SERVICES
+Location: 27.044247 - 76.619034
+
+==================================================
+
+Vehicle 173
+Vehicle No: HR55AD6655
+Driver Name: INDRA DEO  Indra Deo
+Driver Mobile No: 8853207927
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.267422 - 76.846664
+
+==================================================
+
+Vehicle 174
+Vehicle No: MH04HY8927
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.86683355 - 77.1466804
+
+==================================================
+
+Vehicle 175
+Vehicle No: HR55AD9636
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364596 - 73.161384
+
+==================================================
+
+Vehicle 176
+Vehicle No: HR55AD8153
+Driver Name: SHARAD GONDAGE
+Driver Mobile No: 7977018121
+Route: BHIWANDI - BHIWANDI
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 19.364536 - 73.161363
+
+==================================================
+
+Vehicle 177
+Vehicle No: MH04LY3753
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.286802 - 73.072036
+
+==================================================
+
+Vehicle 178
+Vehicle No: HR55AU9686
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 26.970693 - 75.750192
+
+==================================================
+
+Vehicle 179
+Vehicle No: HR55AD2161
+Driver Name: Ram bahadur -
+Driver Mobile No: 9012332547
+Route: Kolkata - Kolkata
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 19.285489 - 73.144212
+
+==================================================
+
+Vehicle 180
+Vehicle No: HR55AD3224
+Driver Name: AMIT KUMAR Amit Kumar
+Driver Mobile No: 7678423645
+Route: Pune - Pune
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 18.757891 - 73.793196
+
+==================================================
+
+Vehicle 181
+Vehicle No: HR55AU6897
+Driver Name: DUMMY
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: JCB INDIA LIMITED
+Location: 28.388444 - 77.253133
+
+==================================================
+
+Vehicle 182
+Vehicle No: HR55AD5787
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267166 - 76.846314
+
+==================================================
+
+Vehicle 183
+Vehicle No: HR55AD7440
+Driver Name: SANDEEP PRASAD Sandeep Prasad
+Driver Mobile No: 7985915405
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.302763 - 76.820448
+
+==================================================
+
+Vehicle 184
+Vehicle No: HR55AD3726
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302621 - 76.820525
+
+==================================================
+
+Vehicle 185
+Vehicle No: HR55AC1211
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364473 - 73.161529
+
+==================================================
+
+Vehicle 186
+Vehicle No: HR55AC1088
+Driver Name: SHARUKH KHAN Sharukh Khan
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.463593 - 76.802444
+
+==================================================
+
+Vehicle 187
+Vehicle No: HR55AD3713
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.29329 - 87.25766
+
+==================================================
+
+Vehicle 188
+Vehicle No: HR55AE6077
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.326561 - 91.71646
+
+==================================================
+
+Vehicle 189
+Vehicle No: HR55AC1133
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302699 - 76.820594
+
+==================================================
+
+Vehicle 190
+Vehicle No: GJ01JT4902
+Driver Name: NO DRIVER
+Driver Mobile No: 0
+Route: Ahmedabad - Ahmedabad
+Consignee Name: PTL MULTI-CUSTOMER
+Location: 22.89358 - 72.415842
+
+==================================================
+
+Vehicle 191
+Vehicle No: MH04JK7278
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.366003 - 73.157661
+
+==================================================
+
+Vehicle 192
+Vehicle No: HR55AD2041
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 27.971197 - 77.341905
+
+==================================================
+
+Vehicle 193
+Vehicle No: HR55AD2949
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.365784 - 73.157991
+
+==================================================
+
+Vehicle 194
+Vehicle No: MH04JK5922
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.366144 - 73.157966
+
+==================================================
+
+Vehicle 195
+Vehicle No: HR55AC6136
+Driver Name: IUNUS SK IUNUS SK
+Driver Mobile No: 0
+Route: Mumbai - BHIWANDI
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 19.366048 - 73.158019
+
+==================================================
+
+Vehicle 196
+Vehicle No: HR55AD6331
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364646 - 73.161369
+
+==================================================
+
+Vehicle 197
+Vehicle No: HR55AD2495
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364626 - 73.161387
+
+==================================================
+
+Vehicle 198
+Vehicle No: HR55AD4518
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 12.746128 - 77.734132
+
+==================================================
+
+Vehicle 199
+Vehicle No: HR55AC6319
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302712 - 76.820718
+
+==================================================
+
+Vehicle 200
+Vehicle No: HR55AD8921
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 27.112627 - 94.72314
+
+==================================================
+
+Vehicle 201
+Vehicle No: HR55AD7916
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.302757 - 76.820588
+
+==================================================
+
+Vehicle 202
+Vehicle No: HR55AD1460
+Driver Name: Rajesh Kumar
+Driver Mobile No: 9812362660
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.376956 - 76.68531
+
+==================================================
+
+Vehicle 203
+Vehicle No: MH46CU6355
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.126332 - 73.115101
+
+==================================================
+
+Vehicle 204
+Vehicle No: HR55AD1438
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.26743719 - 76.84600304
+
+==================================================
+
+Vehicle 205
+Vehicle No: GJ01TG1185
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 23.020967 - 72.543452
+
+==================================================
+
+Vehicle 206
+Vehicle No: HR55AD7780
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.365838 - 73.158128
+
+==================================================
+
+Vehicle 207
+Vehicle No: MH04LQ9836
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.26842 - 73.082298
+
+==================================================
+
+Vehicle 208
+Vehicle No: NL01AG3483
+Driver Name: DUMMY T4U DUMMY T4U
+Driver Mobile No: 9892604454
+Route: Bangalore - Bangalore
+Consignee Name: VODAFONE IDEA LIMITED
+Location: 19.25011 - 73.044314
+
+==================================================
+
+Vehicle 209
+Vehicle No: MH04KU7179
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.126579 - 73.116419
+
+==================================================
+
+Vehicle 210
+Vehicle No: HR55AD1636
+Driver Name: JAGDISH VERMA - JAGDISH VERMA -
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.267136 - 76.846479
+
+==================================================
+
+Vehicle 211
+Vehicle No: HR55AD5886
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.365409 - 73.157657
+
+==================================================
+
+Vehicle 212
+Vehicle No: MH04JK6091
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.365856 - 73.157943
+
+==================================================
+
+Vehicle 213
+Vehicle No: MH05GA1822
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.130273 - 73.123956
+
+==================================================
+
+Vehicle 214
+Vehicle No: HR55AD6535
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 17.371861 - 78.686123
+
+==================================================
+
+Vehicle 215
+Vehicle No: HR55AC4580
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297213 - 76.84174
+
+==================================================
+
+Vehicle 216
+Vehicle No: HR55AD7791
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267025 - 76.846743
+
+==================================================
+
+Vehicle 217
+Vehicle No: HR55AD9064
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.266779 - 76.846972
+
+==================================================
+
+Vehicle 218
+Vehicle No: MH02FG2473
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.109763 - 72.926044
+
+==================================================
+
+Vehicle 219
+Vehicle No: MH04JU5649
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.264857 - 73.08663
+
+==================================================
+
+Vehicle 220
+Vehicle No: MH04JU8614
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.243419 - 73.051954
+
+==================================================
+
+Vehicle 221
+Vehicle No: MH04KU7131
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.03618 - 73.087521
+
+==================================================
+
+Vehicle 222
+Vehicle No: MH03DV2348
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.169751 - 73.002089
+
+==================================================
+
+Vehicle 223
+Vehicle No: HR55AC0823
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267309 - 76.846709
+
+==================================================
+
+Vehicle 224
+Vehicle No: GJ23AT5353
+Driver Name: VIJAY SINGH  VIJAY SINGH
+Driver Mobile No: 8009463976
+Route: Pune - Delhi
+Consignee Name: JCB INDIA LIMITED
+Location: 22.119432 - 73.182111
+
+==================================================
+
+Vehicle 225
+Vehicle No: MH05DK4549
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.118502 - 73.118401
+
+==================================================
+
+Vehicle 226
+Vehicle No: HR55U5322
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 20.953474 - 86.129326
+
+==================================================
+
+Vehicle 227
+Vehicle No: MH04JK6090
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364302 - 73.16144
+
+==================================================
+
+Vehicle 228
+Vehicle No: HR55AC8091
+Driver Name: PANKAJ SHARMA PANKAJ SHARMA
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.267165 - 76.846139
+
+==================================================
+
+Vehicle 229
+Vehicle No: HR55AD9417
+Driver Name: MOHD WASEEM MOHD WASEEM
+Driver Mobile No: 9997785256
+Route: DELHI - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 26.48763661 - 79.43621116
+
+==================================================
+
+Vehicle 230
+Vehicle No: KA52B7281
+Driver Name: NAVEEN Naveen
+Driver Mobile No: 6360351927
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.745988 - 77.733931
+
+==================================================
+
+Vehicle 231
+Vehicle No: HR55AC2852
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 18.749753 - 73.668249
+
+==================================================
+
+Vehicle 232
+Vehicle No: KA52B7293
+Driver Name: YAKUB YAKUB
+Driver Mobile No: 9900395332
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.746253 - 77.734224
+
+==================================================
+
+Vehicle 233
+Vehicle No: MH02FL1350
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.123328 - 72.908481
+
+==================================================
+
+Vehicle 234
+Vehicle No: HR55AD6573
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.117523 - 87.97825
+
+==================================================
+
+Vehicle 235
+Vehicle No: KA52B7100
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 12.746186 - 77.734102
+
+==================================================
+
+Vehicle 236
+Vehicle No: HR55AE5780
+Driver Name: MAHAVEER PAL Mahaveer Pal
+Driver Mobile No: 0
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.266418 - 76.846825
+
+==================================================
+
+Vehicle 237
+Vehicle No: MH04JK6086
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.364619 - 73.161345
+
+==================================================
+
+Vehicle 238
+Vehicle No: MH04JK5916
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.36611 - 73.157622
+
+==================================================
+
+Vehicle 239
+Vehicle No: MH04MH8643
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.233708 - 72.968636
+
+==================================================
+
+Vehicle 240
+Vehicle No: KA52B7296
+Driver Name: SHANKARAPPA Shankarappa
+Driver Mobile No: 9743568137
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.745969 - 77.733977
+
+==================================================
+
+Vehicle 241
+Vehicle No: HR55AD2326
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.2971439 - 76.84173049
+
+==================================================
+
+Vehicle 242
+Vehicle No: HR55AC5543
+Driver Name: SHYAM MANDAL Shyam Mandal
+Driver Mobile No: 0
+Route: Bangalore - Mumbai
+Consignee Name: MEGA FREIGHT MOVERS LIMITED
+Location: 15.295391 - 75.14686
+
+==================================================
+
+Vehicle 243
+Vehicle No: KA52B7283
+Driver Name: MAHESH H K Mahesh H K
+Driver Mobile No: 9632045279
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.746282 - 77.73413
+
+==================================================
+
+Vehicle 244
+Vehicle No: HR55AD0925
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.296944 - 76.841781
+
+==================================================
+
+Vehicle 245
+Vehicle No: MH04JK7280
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.36452 - 73.161478
+
+==================================================
+
+Vehicle 246
+Vehicle No: MH04JU8537
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.280309 - 73.145016
+
+==================================================
+
+Vehicle 247
+Vehicle No: MH04JK4716
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 10.8541755 - 76.84643161
+
+==================================================
+
+Vehicle 248
+Vehicle No: HR55AD7955
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.204517 - 76.7557
+
+==================================================
+
+Vehicle 249
+Vehicle No: HR55AD9294
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.26715071 - 76.84595204
+
+==================================================
+
+Vehicle 250
+Vehicle No: MH02FL2031
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.109799 - 72.926031
+
+==================================================
+
+Vehicle 251
+Vehicle No: HR55AE1709
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.327563 - 73.108941
+
+==================================================
+
+Vehicle 252
+Vehicle No: HR55AD5730
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.205222 - 76.755407
+
+==================================================
+
+Vehicle 253
+Vehicle No: GJ23AT5356
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 22.142393 - 73.184607
+
+==================================================
+
+Vehicle 254
+Vehicle No: HR55AD6067
+Driver Name: AJAY KUMAR PANDEY AJAY KUMAR PANDEY / RAM KUMAR RAM KUMAR
+Driver Mobile No: 0
+Route: Bangalore - Mumbai
+Consignee Name: PUMA SPORTS INDIA PRIVATE LIMITED
+Location: 13.225903 - 77.738139
+
+==================================================
+
+Vehicle 255
+Vehicle No: KA52B7286
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 12.745948 - 77.734062
+
+==================================================
+
+Vehicle 256
+Vehicle No: HR55AE0545
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.00674 - 79.66705
+
+==================================================
+
+Vehicle 257
+Vehicle No: HR55AE9618
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 10.965385 - 77.16432
+
+==================================================
+
+Vehicle 258
+Vehicle No: HR55AD1437
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.86683 - 77.1472
+
+==================================================
+
+Vehicle 259
+Vehicle No: MH04JK5431
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.219034 - 77.00831
+
+==================================================
+
+Vehicle 260
+Vehicle No: HR55AD1729
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 27.400967 - 75.98509
+
+==================================================
+
+Vehicle 261
+Vehicle No: HR55AC2127
+Driver Name: MOHD WASEEM MOHD WASEEM
+Driver Mobile No: 9997785256
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.297586 - 76.8418
+
+==================================================
+
+Vehicle 262
+Vehicle No: HR55AD1193
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297356 - 76.841943
+
+==================================================
+
+Vehicle 263
+Vehicle No: HR55AD4154
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.300255 - 77.291824
+
+==================================================
+
+Vehicle 264
+Vehicle No: KA52B7102
+Driver Name: GIREEPA GIREEPA
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 13.069539 - 77.695849
+
+==================================================
+
+Vehicle 265
+Vehicle No: KA52B7294
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 13.022129 - 77.917275
+
+==================================================
+
+Vehicle 266
+Vehicle No: KA52B7284
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 12.746213 - 77.73409
+
+==================================================
+
+Vehicle 267
+Vehicle No: KA52B7096
+Driver Name: GIRISHA G N Girisha G N
+Driver Mobile No: 0
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.525619 - 75.017237
+
+==================================================
+
+Vehicle 268
+Vehicle No: KA52B7291
+Driver Name: MANJUNATHA B S Manjunatha B S
+Driver Mobile No: 9482168651
+Route: Bangalore - Bangalore
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 12.815908 - 77.407939
+
+==================================================
+
+Vehicle 269
+Vehicle No: MH04JK4722
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.219158 - 77.00796
+
+==================================================
+
+Vehicle 270
+Vehicle No: HR55AD4024
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.65602 - 88.47049
+
+==================================================
+
+Vehicle 271
+Vehicle No: HR55AD8701
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267259 - 76.8466436
+
+==================================================
+
+Vehicle 272
+Vehicle No: HR55AE8318
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 15.424428 - 74.06103
+
+==================================================
+
+Vehicle 273
+Vehicle No: HR55AD1671
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 19.373653 - 73.21141
+
+==================================================
+
+Vehicle 274
+Vehicle No: KA52B7101
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 13.042263 - 77.475056
+
+==================================================
+
+Vehicle 275
+Vehicle No: HR55AD9814
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29724 - 76.841839
+
+==================================================
+
+Vehicle 276
+Vehicle No: MH04JK4717
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.00633 - 79.40657
+
+==================================================
+
+Vehicle 277
+Vehicle No: MH04JK4898
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.006382 - 79.40663
+
+==================================================
+
+Vehicle 278
+Vehicle No: MH04JK4721
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 29.00859 - 79.40572
+
+==================================================
+
+Vehicle 279
+Vehicle No: MH04JK5430
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 11.22076936 - 77.45634003
+
+==================================================
+
+Vehicle 280
+Vehicle No: HR55AD8271
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.77332 - 80.84294
+
+==================================================
+
+Vehicle 281
+Vehicle No: HR55AD7439
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 12.778695 - 77.84852
+
+==================================================
+
+Vehicle 282
+Vehicle No: MH04JK4720
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.267098 - 76.84572687
+
+==================================================
+
+Vehicle 283
+Vehicle No: MH04JK5429
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.26733692 - 76.8458323
+
+==================================================
+
+Vehicle 284
+Vehicle No: MH04JK4714
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 11.8904915 - 79.45649
+
+==================================================
+
+Vehicle 285
+Vehicle No: HR55AD5033
+Driver Name: Krishan Kumar -
+Driver Mobile No: 8104623922
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.258451 - 76.82833
+
+==================================================
+
+Vehicle 286
+Vehicle No: HR55AD4403
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.104628 - 91.69382
+
+==================================================
+
+Vehicle 287
+Vehicle No: HR55AD9666
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297134 - 76.841965
+
+==================================================
+
+Vehicle 288
+Vehicle No: MH04JK0153
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 20.239014 - 73.814316
+
+==================================================
+
+Vehicle 289
+Vehicle No: HR55AD7859
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.272613 - 76.833751
+
+==================================================
+
+Vehicle 290
+Vehicle No: HR55AE1261
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 13.07368 - 77.45285
+
+==================================================
+
+Vehicle 291
+Vehicle No: HR55AD0429
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297163 - 76.84162
+
+==================================================
+
+Vehicle 292
+Vehicle No: HR55AD0280
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297556 - 76.84173
+
+==================================================
+
+Vehicle 293
+Vehicle No: HR55AD4968
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.297426 - 76.841881
+
+==================================================
+
+Vehicle 294
+Vehicle No: HR55AC1168
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29724121 - 76.84183502
+
+==================================================
+
+Vehicle 295
+Vehicle No: HR55AD5877
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 21.8552475 - 87.25349426
+
+==================================================
+
+Vehicle 296
+Vehicle No: HR55AD6001
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 18.80494499 - 73.73389435
+
+==================================================
+
+Vehicle 297
+Vehicle No: HR55AC9606
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29726601 - 76.84105682
+
+==================================================
+
+Vehicle 298
+Vehicle No: HR55AD4072
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 26.10424042 - 91.69390106
+
+==================================================
+
+Vehicle 299
+Vehicle No: HR55AD2991
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.86707878 - 77.14658356
+
+==================================================
+
+Vehicle 300
+Vehicle No: HR55AD8180
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.86681557 - 77.14652252
+
+==================================================
+
+Vehicle 301
+Vehicle No: HR55AD3524
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 13.28559971 - 77.18338013
+
+==================================================
+
+Vehicle 302
+Vehicle No: HR55AD2911
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29719925 - 76.84197998
+
+==================================================
+
+Vehicle 303
+Vehicle No: HR55AD8803
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29709244 - 76.84181213
+
+==================================================
+
+Vehicle 304
+Vehicle No: HR55AD4210
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29721642 - 76.84104919
+
+==================================================
+
+Vehicle 305
+Vehicle No: HR55AD3027
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.20486641 - 76.75608826
+
+==================================================
+
+Vehicle 306
+Vehicle No: HR55AD1680
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29615402 - 76.84117126
+
+==================================================
+
+Vehicle 307
+Vehicle No: HR55AD4057
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.29707146 - 76.84200287
+
+==================================================
+
+Vehicle 308
+Vehicle No: HR55AD4057
+Driver Name: Krishan Kumar -
+Driver Mobile No: 8104623922
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.29707146 - 76.84200287
+
+==================================================
+
+Vehicle 309
+Vehicle No: HR55AD7616
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29727554 - 76.84078217
+
+==================================================
+
+Vehicle 310
+Vehicle No: HR55AD0110
+Driver Name: Krishan Kumar -
+Driver Mobile No: 8104623922
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.29696655 - 76.84179688
+
+==================================================
+
+Vehicle 311
+Vehicle No: HR55AD4087
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.2971344 - 76.84143066
+
+==================================================
+
+Vehicle 312
+Vehicle No: HR55AD9952
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29528236 - 76.86915588
+
+==================================================
+
+Vehicle 313
+Vehicle No: HR55AD0697
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29733276 - 76.84152985
+
+==================================================
+
+Vehicle 314
+Vehicle No: HR55AC8008
+Driver Name: Akhilesh
+Driver Mobile No: 7897273869
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 28.29766655 - 76.8418808
+
+==================================================
+
+Vehicle 315
+Vehicle No: HR55AD4604
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 28.29712296 - 76.84103394
+
+==================================================
+
+Vehicle 316
+Vehicle No: HR55AD3026
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 317
+Vehicle No: HR55AE0185
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 318
+Vehicle No: MH04JK4498
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 319
+Vehicle No: HR55AD4281
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 320
+Vehicle No: MH04JK5423
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 321
+Vehicle No: HR55AD9838
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 322
+Vehicle No: HR55AD9847
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 323
+Vehicle No: HR55AD3419
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 324
+Vehicle No: HR55AD5055
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 325
+Vehicle No: HR55AD2883
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 326
+Vehicle No: HR55AE3454
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 327
+Vehicle No: HR55AD6039
+Driver Name: PRUDHVI DR TEST Prudhvi DR Test
+Driver Mobile No: 7893686871
+Route: Mumbai - Kolkata
+Consignee Name: ERT SHIPPING & WAREHOUSING PVT
+Location: 0 - 0
+
+==================================================
+
+Vehicle 328
+Vehicle No: MH04HY8596
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 329
+Vehicle No: HR55AD9231
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 330
+Vehicle No: MH04HY8925
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 331
+Vehicle No: HR55AD1719
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 332
+Vehicle No: HR55AD0669
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 333
+Vehicle No: HR55AD4799
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 334
+Vehicle No: HR55AD6564
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 335
+Vehicle No: HR55AD7384
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 336
+Vehicle No: HR55AD5894
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 337
+Vehicle No: HR55AD4507
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 338
+Vehicle No: MH04JK5434
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 339
+Vehicle No: HR55AE7605
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 340
+Vehicle No: HR55AD1183
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 341
+Vehicle No: HR55AD4106
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 342
+Vehicle No: MH04JK0157
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 343
+Vehicle No: MH04JK7279
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 344
+Vehicle No: HR55AE9768
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 345
+Vehicle No: HR55AD5884
+Driver Name: FAHEEM KHAN FAHEEM KHAN / MOHD UMAR
+Driver Mobile No: 7830150049 / 7906726466
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 346
+Vehicle No: HR55AD8943
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 347
+Vehicle No: MH04KF8187
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 348
+Vehicle No: MH04JK6096
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 349
+Vehicle No: MH04JK5422
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 350
+Vehicle No: MH04KF8186
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 351
+Vehicle No: HR55AD6023
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 352
+Vehicle No: MH04JK4504
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 353
+Vehicle No: MH04JK5914
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 354
+Vehicle No: HR55AD8418
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 355
+Vehicle No: HR55AD5198
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 356
+Vehicle No: HR55AD6670
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 357
+Vehicle No: HR55AD1007
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 358
+Vehicle No: HR55AD2055
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 359
+Vehicle No: MH04JK5421
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 360
+Vehicle No: MH04JK4503
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 361
+Vehicle No: HR55AD1557
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 362
+Vehicle No: HR55AD8419
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 363
+Vehicle No: HR55AE9360
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 364
+Vehicle No: HR55AD6650
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 365
+Vehicle No: MH04JK5427
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 366
+Vehicle No: MH04JU8536
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 367
+Vehicle No: HR55AD7453
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 368
+Vehicle No: MH04JK4724
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 369
+Vehicle No: HR55AD0301
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 370
+Vehicle No: HR55AD9284
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 371
+Vehicle No: HR55AD8324
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 372
+Vehicle No: KA52B7292
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 373
+Vehicle No: HR55AD4972
+Driver Name: MADAN  LAL - Madan  Lal -
+Driver Mobile No: 8168838545
+Route: Delhi - Delhi
+Consignee Name: DHL SUPPLY CHAIN INDIA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 374
+Vehicle No: MH04JK5918
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 375
+Vehicle No: HR55AD8676
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 376
+Vehicle No: MH04JK4709
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 377
+Vehicle No: HR55AD6294
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 378
+Vehicle No: HR55AD6271
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 379
+Vehicle No: MH04JK5244
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 380
+Vehicle No: HR55AD1488
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+==================================================
+
+Vehicle 381
+Vehicle No: HR55AD0261
+Driver Name: NA
+Driver Mobile No: 0
+Route: NA - NA
+Consignee Name: NA
+Location: 0 - 0
+
+========================================
+TOTAL VEHICLES: 381
+========================================
