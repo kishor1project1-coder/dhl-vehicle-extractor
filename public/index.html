@@ -48,7 +48,7 @@
     <section id="tab-inspection" class="tab-panel"
       role="tabpanel" aria-labelledby="tabBtn-inspection">
 
-      <form id="inspectionForm" class="panel">
+      <form id="inspectionForm" class="panel" autocomplete="off">
         <div class="section-heading">
           <h2>New inspection</h2>
           <p>Enter the truck number to retrieve its inspection details.</p>
@@ -58,7 +58,7 @@
         <div class="form-grid three">
           <label>
             Inspection date
-            <input type="date" id="date" name="date" required>
+            <input type="date" id="date" name="date" autocomplete="off" required>
           </label>
 
           <label>
@@ -79,7 +79,7 @@
 
           <label>
             QRT location
-            <select id="qrtLocation" name="qrtLocation" required>
+            <select id="qrtLocation" name="qrtLocation" autocomplete="off" required>
               <option value="">Loading locations…</option>
             </select>
           </label>
@@ -94,6 +94,9 @@
               name="truckNumber"
               placeholder="Enter truck registration"
               autocomplete="off"
+              autocapitalize="characters"
+              autocorrect="off"
+              spellcheck="false"
               required
             >
             <small id="lookupStatus" class="helper">
@@ -104,7 +107,11 @@
           <label>
             Seal number
             <input id="sealNumber" name="sealNumber"
-              placeholder="Enter or confirm seal number" required>
+              placeholder="Enter or confirm seal number"
+              autocomplete="off"
+              autocorrect="off"
+              spellcheck="false"
+              required>
           </label>
         </div>
 
@@ -190,7 +197,7 @@
           </button>
         </div>
 
-        <form id="dhlTokenForm">
+        <form id="dhlTokenForm" autocomplete="off">
           <label for="dhlTokenInput">
             New DHL API token
             <div class="input-with-button">
