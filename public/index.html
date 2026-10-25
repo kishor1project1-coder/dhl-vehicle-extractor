@@ -9,18 +9,17 @@
 <body>
   <main class="page">
 
-    <!-- HEADER -->
-    <header class="header">
-      <div class="brand-mark">DHL</div>
-      <div class="header-text">
-        <h1>Vehicle Inspection</h1>
-        <p>QRT checkpoint registration</p>
+    <!-- NAVBAR: logo + navigation + status on one line -->
+    <header class="navbar">
+      <div class="brand">
+        <div class="brand-mark">DHL</div>
+        <div class="header-text">
+          <h1>Vehicle Inspection</h1>
+          <p>QRT checkpoint registration</p>
+        </div>
       </div>
-      <span id="apiStatus" class="status-pill">Connecting…</span>
-    </header>
 
-    <!-- TABS -->
-    <nav class="tabs" role="tablist" aria-label="Sections">
+      <nav class="tabs" role="tablist" aria-label="Sections">
       <button type="button" role="tab" class="tab active"
         id="tabBtn-inspection" data-tab="inspection"
         aria-controls="tab-inspection" aria-selected="true">
@@ -44,80 +43,108 @@
       </button>
     </nav>
 
+      <span id="apiStatus" class="status-pill">Connecting…</span>
+    </header>
+
     <!-- ============ TAB 1: INSPECTION ============ -->
     <section id="tab-inspection" class="tab-panel"
       role="tabpanel" aria-labelledby="tabBtn-inspection">
 
-      <form id="inspectionForm" class="panel" autocomplete="off">
-        <div class="section-heading">
-          <h2>New inspection</h2>
-          <p>Enter the truck number to retrieve its inspection details.</p>
-        </div>
+      <div class="inspection-layout">
 
-        <h3 class="group-title">Checkpoint</h3>
-        <div class="form-grid three">
-          <label>
-            Inspection date
-            <input type="date" id="date" name="date" autocomplete="off" required>
-          </label>
+        <!-- LEFT CONTAINER: inputs -->
+        <form id="inspectionForm" class="panel" autocomplete="off">
+          <div class="section-heading">
+            <h2>New inspection</h2>
+            <p>Enter the truck number to retrieve its inspection details.</p>
+          </div>
 
-          <label>
-            Check time (24-hour)
-            <input
-              type="text"
-              id="checkTime"
-              name="checkTime"
-              placeholder="HH:MM"
-              inputmode="numeric"
-              autocomplete="off"
-              maxlength="5"
-              pattern="([01][0-9]|2[0-3]):[0-5][0-9]"
-              title="Enter the time as HH:MM, for example 14:30"
-              required
-            >
-          </label>
+          <h3 class="group-title">Checkpoint</h3>
+          <div class="form-grid">
+            <label>
+              Inspection date
+              <input type="date" id="date" name="date" autocomplete="off" required>
+            </label>
 
-          <label>
-            QRT location
-            <select id="qrtLocation" name="qrtLocation" autocomplete="off" required>
-              <option value="">Loading locations…</option>
-            </select>
-          </label>
-        </div>
+            <label>
+              Check time (24-hour)
+              <input
+                type="text"
+                id="checkTime"
+                name="checkTime"
+                placeholder="HH:MM"
+                inputmode="numeric"
+                autocomplete="off"
+                maxlength="5"
+                pattern="([01][0-9]|2[0-3]):[0-5][0-9]"
+                title="Enter the time as HH:MM, for example 14:30"
+                required
+              >
+            </label>
 
-        <h3 class="group-title">Truck</h3>
-        <div class="form-grid">
-          <label>
-            Truck number
-            <input
-              id="truckNumber"
-              name="truckNumber"
-              placeholder="Enter truck registration"
-              autocomplete="off"
-              autocapitalize="characters"
-              autocorrect="off"
-              spellcheck="false"
-              required
-            >
-            <small id="lookupStatus" class="helper">
-              Lookup starts automatically.
-            </small>
-          </label>
+            <label class="span-2">
+              QRT location
+              <select id="qrtLocation" name="qrtLocation" autocomplete="off" required>
+                <option value="">Loading locations…</option>
+              </select>
+            </label>
+          </div>
 
-          <label>
-            Seal number
-            <input id="sealNumber" name="sealNumber"
-              placeholder="Enter or confirm seal number"
-              autocomplete="off"
-              autocorrect="off"
-              spellcheck="false"
-              required>
-          </label>
-        </div>
+          <h3 class="group-title">Truck</h3>
+          <div class="form-grid">
+            <label>
+              Truck number
+              <input
+                id="truckNumber"
+                name="truckNumber"
+                placeholder="Enter truck registration"
+                autocomplete="off"
+                autocapitalize="characters"
+                autocorrect="off"
+                spellcheck="false"
+                required
+              >
+              <small id="lookupStatus" class="helper">
+                Lookup starts automatically.
+              </small>
+            </label>
 
-        <div id="truckCard" class="truck-card hidden">
-          <h3>Truck information</h3>
-          <div class="details-grid">
+            <label>
+              Seal number
+              <input id="sealNumber" name="sealNumber"
+                placeholder="Enter or confirm seal number"
+                autocomplete="off"
+                autocorrect="off"
+                spellcheck="false"
+                required>
+            </label>
+          </div>
+
+          <div id="inspectionNotice" class="notice hidden"></div>
+          <div id="formMessage" role="status" class="message hidden"></div>
+
+          <div class="actions">
+            <button type="reset" class="button secondary">Clear form</button>
+            <button type="submit" id="saveButton" class="button primary">
+              Save inspection
+            </button>
+          </div>
+        </form>
+
+        <!-- RIGHT CONTAINER: truck information -->
+        <aside id="truckCard" class="panel info-panel" aria-live="polite">
+          <div class="info-header">
+            <span class="info-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7zM5.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM18.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
+            </span>
+            <h3>Truck information</h3>
+          </div>
+
+          <p id="truckEmpty" class="info-empty">
+            Enter a truck number to see the driver, route and client details here.
+          </p>
+
+          <div id="truckDetails" class="details-grid hidden">
             <div><span>Driver</span><strong id="driverName">—</strong></div>
             <div><span>Driver mobile</span><strong id="driverMobile">—</strong></div>
             <div><span>Vehicle type</span><strong id="truckType">—</strong></div>
@@ -127,18 +154,9 @@
             <div><span>Client</span><strong id="consignee">—</strong></div>
             <div><span>Product</span><strong id="product">—</strong></div>
           </div>
-        </div>
+        </aside>
 
-        <div id="inspectionNotice" class="notice hidden"></div>
-        <div id="formMessage" role="status" class="message hidden"></div>
-
-        <div class="actions">
-          <button type="reset" class="button secondary">Clear form</button>
-          <button type="submit" id="saveButton" class="button primary">
-            Save inspection
-          </button>
-        </div>
-      </form>
+      </div>
     </section>
 
     <!-- ============ TAB 2: DATA SYNC ============ -->

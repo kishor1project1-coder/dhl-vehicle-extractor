@@ -65,7 +65,8 @@ function setText(id, value) {
 }
 
 function showTruck(truck) {
-  $("truckCard").classList.remove("hidden");
+  $("truckEmpty").classList.add("hidden");
+  $("truckDetails").classList.remove("hidden");
 
   setText("driverName", truck.driverName);
   setText("driverMobile", truck.driverMobile);
@@ -78,7 +79,8 @@ function showTruck(truck) {
 }
 
 function clearTruck() {
-  $("truckCard").classList.add("hidden");
+  $("truckEmpty").classList.remove("hidden");
+  $("truckDetails").classList.add("hidden");
 
   [
     "driverName", "driverMobile", "truckType", "truckMake",
