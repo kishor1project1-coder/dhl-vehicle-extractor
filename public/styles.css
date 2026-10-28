@@ -213,6 +213,18 @@ input:focus, select:focus {
 
 .helper { color: var(--muted); font-size: 12px; font-weight: 400; }
 
+.field-error { color: var(--err-text); font-size: 12px; font-weight: 500; }
+
+input.invalid, select.invalid {
+  border-color: #d64545;
+  background: #fffafa;
+}
+
+input.invalid:focus, select.invalid:focus {
+  border-color: #d64545;
+  box-shadow: 0 0 0 4px rgba(214, 69, 69, .15);
+}
+
 .input-with-button { display: flex; gap: 8px; }
 .input-with-button input { flex: 1; }
 
@@ -255,7 +267,22 @@ input:focus, select:focus {
   margin-bottom: 18px;
 }
 
-.info-header h3 { margin: 0; font-size: 18px; }
+.info-header h3 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0;
+  font-size: 18px;
+}
+
+.info-number { color: var(--red); font-weight: 800; letter-spacing: .02em; }
+.info-number::before {
+  content: "|";
+  margin-right: 10px;
+  color: #c3cad6;
+  font-weight: 400;
+}
 
 .info-icon {
   display: grid;

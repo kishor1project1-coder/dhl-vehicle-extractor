@@ -64,7 +64,9 @@ function setText(id, value) {
   $(id).textContent = value || "—";
 }
 
-function showTruck(truck) {
+function showTruck(truck, truckNumber = "") {
+  $("truckInfoNumber").textContent = truckNumber;
+  $("truckInfoNumber").classList.toggle("hidden", !truckNumber);
   $("truckEmpty").classList.add("hidden");
   $("truckDetails").classList.remove("hidden");
 
@@ -79,6 +81,8 @@ function showTruck(truck) {
 }
 
 function clearTruck() {
+  $("truckInfoNumber").textContent = "";
+  $("truckInfoNumber").classList.add("hidden");
   $("truckEmpty").classList.remove("hidden");
   $("truckDetails").classList.add("hidden");
 
@@ -130,7 +134,7 @@ async function loadQrtLocations() {
 async function lookupTruck() {
   if (isSaving) return;
 
-  const truckNumber = $("truckNumber").value.trim();
+  const truckNumber = $("truckNumber").value.trim().toUpperCase();
   const selectedDate = $("date").value;
   const currentRequest = ++requestNumber;
 
@@ -155,7 +159,7 @@ async function lookupTruck() {
     const inspection = result.inspection;
 
     if (truck.foundInVehicleData || truck.foundInVehicleInfo) {
-      showTruck(truck);
+      showTruck(truck, truckNumber);
     }
 
     if (inspection.found && inspection.latestInspection) {
@@ -190,6 +194,20 @@ function scheduleLookup() {
   lookupTimer = setTimeout(lookupTruck, 300);
 }
 
+// Truck number is always upper case, even if typed or pasted in lower case.
+$("truckNumber").addEventListener("input", () => {
+  const input = $("truckNumber");
+  const upper = input.value.toUpperCase();
+
+  if (input.value !== upper) {
+    const start = input.selectionStart;
+    const end = input.selectionEnd;
+
+    input.value = upper;
+    input.setSelectionRange(start, end); // keep the cursor where it was
+  }
+});
+
 $("truckNumber").addEventListener("input", scheduleLookup);
 $("truckNumber").addEventListener("change", lookupTruck);
 $("date").addEventListener("change", lookupTruck);
@@ -203,18 +221,85 @@ $("checkTime").addEventListener("input", () => {
     digits.length > 2 ? `${digits.slice(0, 2)}:${digits.slice(2)}` : digits;
 });
 
+/* ---------- Form validation: no blank values pass ---------- */
+
+const FIELD_RULES = [
+  {
+    id: "date",
+    check: value => (value ? "" : "Select the inspection date.")
+  },
+  {
+    id: "checkTime",
+    check: value => {
+      if (!value) return "Enter the check time.";
+      return /^([01]\d|2[0-3]):[0-5]\d$/.test(value)
+        ? ""
+        : "Use 24-hour format, for example 09:30 or 14:30.";
+    }
+  },
+  {
+    id: "qrtLocation",
+    check: value => (value ? "" : "Select a QRT location.")
+  },
+  {
+    id: "truckNumber",
+    check: value => {
+      if (!value) return "Enter the truck number.";
+      return value.length < 3 ? "Truck number is too short." : "";
+    }
+  },
+  {
+    id: "sealNumber",
+    check: value => (value ? "" : "Enter the seal number.")
+  }
+];
+
+function setFieldError(id, message) {
+  const input = $(id);
+  const error = $(`err-${id}`);
+
+  error.textContent = message;
+  error.classList.toggle("hidden", !message);
+  input.classList.toggle("invalid", Boolean(message));
+  input.setAttribute("aria-invalid", message ? "true" : "false");
+}
+
+function clearFieldErrors() {
+  FIELD_RULES.forEach(rule => setFieldError(rule.id, ""));
+}
+
+// Returns the id of the first invalid field, or null when all pass.
+function validateInspectionForm() {
+  let firstInvalid = null;
+
+  for (const rule of FIELD_RULES) {
+    const message = rule.check($(rule.id).value.trim());
+
+    setFieldError(rule.id, message);
+
+    if (message && !firstInvalid) firstInvalid = rule.id;
+  }
+
+  return firstInvalid;
+}
+
+// Remove a field's error as soon as the user edits it.
+FIELD_RULES.forEach(rule => {
+  $(rule.id).addEventListener("input", () => setFieldError(rule.id, ""));
+  $(rule.id).addEventListener("change", () => setFieldError(rule.id, ""));
+});
+
 $("inspectionForm").addEventListener("submit", async event => {
   event.preventDefault();
   if (isSaving) return;
 
   hideMessage();
 
-  if (!/^([01]\d|2[0-3]):[0-5]\d$/.test($("checkTime").value.trim())) {
-    showMessage(
-      "Enter the check time in 24-hour format, for example 09:30 or 14:30.",
-      "error"
-    );
-    $("checkTime").focus();
+  const invalidField = validateInspectionForm();
+
+  if (invalidField) {
+    showMessage("Please fix the highlighted fields before saving.", "error");
+    $(invalidField).focus();
     return;
   }
 
@@ -222,8 +307,8 @@ $("inspectionForm").addEventListener("submit", async event => {
   const payload = {
     date: $("date").value,
     qrtLocation: $("qrtLocation").value,
-    truckNumber: $("truckNumber").value.trim(),
-    checkTime: $("checkTime").value,
+    truckNumber: $("truckNumber").value.trim().toUpperCase(),
+    checkTime: $("checkTime").value.trim(),
     sealNumber: $("sealNumber").value.trim()
   };
 
@@ -239,7 +324,7 @@ $("inspectionForm").addEventListener("submit", async event => {
 
     $("inspectionForm").reset();
     $("date").value = localDateValue();
-    $("checkTime").value = localTimeValue();
+    $("checkTime").value = "";
     $("qrtLocation").value = "";
     $("truckNumber").value = "";
     $("sealNumber").value = "";
@@ -248,6 +333,7 @@ $("inspectionForm").addEventListener("submit", async event => {
     $("inspectionNotice").classList.add("hidden");
     $("inspectionNotice").textContent = "";
     clearTruck();
+    clearFieldErrors();
     hideMessage();
 
     showMessage(
@@ -269,7 +355,7 @@ $("inspectionForm").addEventListener("reset", () => {
 
   setTimeout(() => {
     $("date").value = localDateValue();
-    $("checkTime").value = localTimeValue();
+    $("checkTime").value = "";
     $("truckNumber").value = "";
     $("sealNumber").value = "";
     $("qrtLocation").value = "";
@@ -277,6 +363,7 @@ $("inspectionForm").addEventListener("reset", () => {
     $("inspectionNotice").classList.add("hidden");
     $("inspectionNotice").textContent = "";
     clearTruck();
+    clearFieldErrors();
     hideMessage();
   }, 0);
 });
@@ -478,7 +565,7 @@ document.querySelector(".tabs").addEventListener("keydown", event => {
 selectTab(location.hash.replace("#", ""), false);
 
 $("date").value = localDateValue();
-$("checkTime").value = localTimeValue();
+$("checkTime").value = "";
 
 loadHealth();
 loadQrtLocations();

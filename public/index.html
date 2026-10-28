@@ -53,7 +53,7 @@
       <div class="inspection-layout">
 
         <!-- LEFT CONTAINER: inputs -->
-        <form id="inspectionForm" class="panel" autocomplete="off">
+        <form id="inspectionForm" class="panel" autocomplete="off" novalidate>
           <div class="section-heading">
             <h2>New inspection</h2>
             <p>Enter the truck number to retrieve its inspection details.</p>
@@ -64,6 +64,7 @@
             <label>
               Inspection date
               <input type="date" id="date" name="date" autocomplete="off" required>
+              <small id="err-date" class="field-error hidden"></small>
             </label>
 
             <label>
@@ -80,6 +81,7 @@
                 title="Enter the time as HH:MM, for example 14:30"
                 required
               >
+              <small id="err-checkTime" class="field-error hidden"></small>
             </label>
 
             <label class="span-2">
@@ -87,6 +89,7 @@
               <select id="qrtLocation" name="qrtLocation" autocomplete="off" required>
                 <option value="">Loading locations…</option>
               </select>
+              <small id="err-qrtLocation" class="field-error hidden"></small>
             </label>
           </div>
 
@@ -104,6 +107,7 @@
                 spellcheck="false"
                 required
               >
+              <small id="err-truckNumber" class="field-error hidden"></small>
               <small id="lookupStatus" class="helper">
                 Lookup starts automatically.
               </small>
@@ -117,6 +121,7 @@
                 autocorrect="off"
                 spellcheck="false"
                 required>
+              <small id="err-sealNumber" class="field-error hidden"></small>
             </label>
           </div>
 
@@ -137,7 +142,7 @@
             <span class="info-icon" aria-hidden="true">
               <svg viewBox="0 0 24 24"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7zM5.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM18.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
             </span>
-            <h3>Truck information</h3>
+            <h3>Truck information<span id="truckInfoNumber" class="info-number hidden"></span></h3>
           </div>
 
           <p id="truckEmpty" class="info-empty">
